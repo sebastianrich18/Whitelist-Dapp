@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# Whitelist-Dapp
+>For learn web3 DAO sophmore track
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Contract (rinkeby): 0x6f9ea7953c35ce0e0b7d65fe1b3ea839ea0f83a6
+Site: https://whitelist-dapp-plum.vercel.app/
